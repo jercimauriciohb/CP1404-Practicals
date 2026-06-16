@@ -13,5 +13,4 @@ print(key)
 value = name_to_age.values()
 print(value)
 
-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
 
