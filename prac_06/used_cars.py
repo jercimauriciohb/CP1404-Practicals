@@ -14,8 +14,5 @@ def main():
     print(f"Car has fuel: {my_car.fuel}")
     print(my_car)
 
-# Create a new Car object called "limo" that is initialised with 100 units of fuel.
-
-
 
 main()
