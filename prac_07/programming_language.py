@@ -43,5 +43,4 @@ def run_tests():
     assert visual_basic.is_dynamic() is False
 
 
-if __name__ == "__main__":
-    run_tests()
+
